@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+
+<style>
+	.navbar {
+	  overflow: hidden;
+	  background-color: white;
+	  position: fixed;
+	  top: 0;
+	  width: 100%;
+	
+	  z-index: 1000;
+	}
+
+	.container {
+		margin-top: 180px;
+		background-color: dodgerblue;
+		
+	} 
+/*FLIP CSS*/
+	/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+	.flip-card {
+	  background-color: transparent;
+	  width: 300px;
+	  height: 300px;
+	  border: 1px solid #f1f1f1;
+	  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+	}
+
+	/* This container is needed to position the front and back side */
+	.flip-card-inner {
+	  position: relative;
+	  width: 100%;
+	  height: 100%;
+	  text-align: center;
+	  transition: transform 0.8s;
+	  transform-style: preserve-3d;
+	}
+
+	/* Do an horizontal flip when you move the mouse over the flip box container */
+	.flip-card:hover .flip-card-inner {
+	  transform: rotateY(180deg);
+	}
+
+	/* Position the front and back side */
+	.flip-card-front, .flip-card-back {
+	  position: absolute;
+	  width: 100%;
+	  height: 100%;
+	  backface-visibility: hidden;
+	}
+
+	/* Style the front side (fallback if image is missing) */
+	.flip-card-front {
+	  background-color: #bbb;
+	  color: black;
+	}
+
+	/* Style the back side */
+	.flip-card-back {
+	  background-color: dodgerblue;
+	  color: white;
+	  transform: rotateY(180deg);
+	}
+
+
+/*FLEX CSS*/
+	.flex-container {
+  		display: flex;
+  		flex-wrap: wrap;
+  		background-color: DodgerBlue;
+  		align-content: center;
+  		justify-content: center;
+  		margin-top: 200px;
+	}
+
+	.flex-container > div {
+  		background-color: #f1f1f1;
+  		margin: 10px;
+  		padding: 20px;
+  		font-size: 30px;
+	}
+
+
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+	}
+
+		
+</style>
+
+
+
+
+
+</head>
+
+
+<body>
+
+
+<div class = "navbar">
+
+	<picture>
+  		<source media="(min-width: 920px)" srcset="images/logosusgoalslg.png">
+  		<img src="images/logosusgoalssm.png" alt="ERROR" style = "width: auto;" class = "center" id = "myHeader"/>
+	</picture>
+
+</div>
+
+<div class = "container" id = "topbar">
+<div class = "flex-container">
+	
+	<div>
+		<div class="flip-card">
+		  <div class="flip-card-inner">
+		    <div class="flip-card-front">
+		      <img src="images/1-nopoverty.png" alt="Avatar" style="width:300px;height:300px;">
+		    </div>
+		    <div class="flip-card-back" style = "background-color: #EB1C2D">
+		      <h3>No Poverty</h3> 
+		      <p>Is universal income inevitable?</p> 
+		    </div>
+		  </div>
+		</div>
+	</div>
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/2-zerohunger.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #D3A029">
+	      <h3>Zero Hunger</h3> 
+	      <p>Should all kids be provided breakfast at schools?</p> 
+	    </div>
+	  </div>
+	</div>
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/3-goodhealthandwellbeing.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style="background-color: #279B48">
+	      <h3>Good Health and Well-Being</h3> 
+	      <p>Should companies be allowed to send emails outside working hours?</p>     
+	    </div>
+	  </div>
+	</div>
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/4-qualityeducation.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #C31F33">
+	      <h3>Quality Education</h3> 
+	      <p>Is internet access a human right?</p> 
+	     
+	    </div>
+	  </div>
+	</div>
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/5-genderequality.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #EF402B">
+	     	<h3>Gender Equality</h3> 
+	   		<p>Should all interviews be gender blind?</p>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/6-cleanwaterandsanitation.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #00AED9">
+	      <h3>Clean Water and Sanitation</h3> 
+	      <p>Should water be privatized?</p>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/7-affordableandcleanenergy.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #F99D26">
+	      <h3>Affordable and Clean Energy</h3> 
+	      <p>Is clean coal a contradiction?</p> 
+	    </div>
+	  </div>
+	</div>
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/8-decentworkandeconomicgrowth.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #8F1838">
+	     	<h3>Decent Work and Economic Growth</h3> 
+	    	<p>Can the economey always grow?</p> 
+	    </div>
+	  </div>
+	</div>
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/9-industryinnovationandinfra.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #EB1C23">
+	     	<h3>Industry, Innovation and Infrastructure</h3> 
+	    	<p>What does a knowledge economey look like?</p> 
+	
+	    </div>
+	  </div>
+	</div>
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/10-reducedinequalities.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #FF1484;">
+	     	<h3>Reduce Inequalities</h3> 
+	    	<p>Should a company limit lowest and highest compensated employee?</p> 
+	    </div>
+	  </div>
+	</div>
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/11-sustainablecitiesandcommunities.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #F99D26">
+	     	<h3>Sustainable Cities and Communities</h3> 
+	    	<p>Can we farm in the city?</p> 
+	 
+	    </div>
+	  </div>
+	</div>
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/12-responsibleconsumptionandproduction.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #CF8D2A">
+	     	<h3>Responsible Consumption and Production</h3> 
+	    	<p>How many pairs of shoes does one need?</p> 
+	    </div>
+	  </div>
+	</div>
+
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/13-climateaction.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #48773E;">
+	     	<h3>Responsible Consumption and Production</h3> 
+	    	<p>How many pairs of shoes does one need?</p> 
+	    </div>
+	  </div>
+	</div>
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/14-lifeunderwater.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #007DBC">
+	     	<h3>Life Below Water</h3> 
+	    	<p>Where did all the radioactive waste go?</p>
+	    </div>
+	  </div>
+	</div>
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/15-lifeonland.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #3EB049">
+	     	<h3>Life on Land</h3> 
+	    	<p>How much space does one person need?</p>
+	    </div>
+	  </div>
+	</div>
+
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/16-peacejusticestronginstitution.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #02558B">
+	     	<h3>Peace, Justice and Strong Institution</h3> 
+	    	<p>Did you vote?</p>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="flip-card">
+	  <div class="flip-card-inner">
+	    <div class="flip-card-front">
+	      <img src="images/17-partnershipforthegoals.png" alt="Avatar" style="width:300px;height:300px;">
+	    </div>
+	    <div class="flip-card-back" style = "background-color: #183668">
+	     	<h3>Partnership for the Goals</h3> 
+	    	<p>Who can you work with?</p>
+	    </div>
+	  </div>
+	</div>
+
+
+
+</div>
+</div>
+
+<script>
+
+	window.onresize = function() {myFunction()};
+	var w = window.innerWidth;
+	if (w > 980) {
+		console.log("big")
+   		var element = document.getElementById("topbar");
+   		console.log(element)
+		element.style.marginTop = "190px";	
+	
+	} else {
+		console.log("small")
+   		var element = document.getElementById("topbar");
+		element.style.marginTop = "280px";	
+	}
+
+
+	function myFunction() {
+		var w = window.innerWidth;
+		if (w > 920) {
+			console.log("big")
+	   		var element = document.getElementById("topbar");
+	   		console.log(element)
+			element.style.marginTop = "190px";	
+		
+		} else {
+			console.log("small")
+	   		var element = document.getElementById("topbar");
+			element.style.marginTop = "280px";	
+		}
+
+ 	}
+
+</script>
+</body>
+</html>

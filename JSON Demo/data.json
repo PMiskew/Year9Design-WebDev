@@ -1,0 +1,4250 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Don't know"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Don't know"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominica",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominica",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominica",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominica",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Don't know"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Don't know"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Don't know"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "San Marino",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "San Marino",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "San Marino",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "San Marino",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Solomon Islands",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Solomon Islands",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Solomon Islands",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Solomon Islands",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "The former Yugoslav republic of Macedonia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "The former Yugoslav republic of Macedonia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "The former Yugoslav republic of Macedonia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "The former Yugoslav republic of Macedonia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tuvalu",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tuvalu",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tuvalu",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tuvalu",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Don't know"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Don't know"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Don't know"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Larger scale"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Child maltreatment: Extent of implementation of home-visiting programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Youth violence: Extent of implementation of life-skills and social development programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Intimate partner violence: Extent of implementation  of dating violence prevention programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "None"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Elder abuse: Extent of implementation  of caregiver-support programmes",
+                          "YEAR": "2012-2014"
+                        },
+                "Value": "Limited"
+              }
+      ]
+}
