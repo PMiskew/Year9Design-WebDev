@@ -1,27 +1,42 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CSS Demo</title>
+	<title>Why CSS</title>
 
-<style>
-	p {
-		color: blue;
-	}
+	<style>
 
-	p {
-		color: red;
-	}
+		p {
+			color: blue;
+			font-size: 40px;
+		}
 
-	p {
-		color: yellow;
-	}
-</style>
+		p {
+			color: red;
+		}
+		
+		#p1 {
+			color: green;
+		}
+
+	</style>
+
+
 
 </head>
 <body>
 
-<p> line 1 </p>
-<p> line 2 </p>
+	<p id = "p1">Line 1</p>
+	<p class = "p2">Line 2</p>
+	<p class = "p2">Line 3</p>
 
+
+	<script>
+		//Run Script top down when page loads. 
+		console.log(document.getElementById("p1"))
+		console.log(document.getElementsByClassName("p2"))
+
+
+
+	</script>
 </body>
 </html>
