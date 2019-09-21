@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<style>
+	
+		div {
+			width: 100px;
+			height: 100px;
+			background-color: red;
+		}
+
+	</style>
+</head>
+<body>
+
+
+
+<div id="div1">
+</div>
+
+
+<script>
+
+	document.getElementById("div1").addEventListener('click', function (event) {
+           console.log("test");
+           document.getElementById("div1").style.width = "500px";
+    });
+</script>	
+</body>
+</html>

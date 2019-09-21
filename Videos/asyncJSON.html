@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    
+	<title>Async JSON</title>
+</head>
+<body>
+
+<script>
+$.ajax({
+  url: 'https://raw.githubusercontent.com/PMiskew/pmiskew.github.io/master/Activity%202/data/HIVinfection.json',
+  async: false,
+  dataType: 'json',
+  success: function (response) {
+  	console.log(response)
+  }
+});
+</script>
+</body>
+</html>
